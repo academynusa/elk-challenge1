@@ -1,1 +1,0 @@
-# elk-challenge1
